@@ -1,0 +1,5 @@
+{
+  "name": "MVP Accuracy Visualizer",
+  "description": "An interactive application to visually represent the concepts of accuracy, precision, and veracidad (validity) for a Minimum Viable Product using a target analogy.",
+  "requestFramePermissions": []
+}
